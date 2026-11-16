@@ -54,3 +54,9 @@ def rearrange_by_frequency(nums: list[int]) -> list[int]:
 
 print(rearrange_by_frequency([4, 5, 6, 5, 4, 3, 4]))
 print(rearrange_by_frequency([1, 1, 2, 2, 3]))
+
+
+
+
+
+# -----------------------        4-misol           ---------------------------------
